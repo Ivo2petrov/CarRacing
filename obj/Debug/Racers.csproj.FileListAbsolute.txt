@@ -1,0 +1,7 @@
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\bin\Debug\Racers.exe.config
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\bin\Debug\Racers.exe
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\bin\Debug\Racers.pdb
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\obj\Debug\Racers.csprojAssemblyReference.cache
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\obj\Debug\Racers.csproj.CoreCompileInputs.cache
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\obj\Debug\Racers.exe
+C:\Users\ivaylo.petrov\source\repos\Racers\Racers\obj\Debug\Racers.pdb
